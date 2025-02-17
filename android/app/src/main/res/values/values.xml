@@ -1,0 +1,8 @@
+<resources>
+    <string name="default_web_client_id" translatable="false">YOUR_RETRIEVED_WEB_CLIENT_ID</string>
+    <string name="gcm_defaultSenderId" translatable="false">669788928007</string>
+    <string name="google_api_key" translatable="false">AIzaSyAQ1I-rnpHVzJO9joOgdCX9BJsuLdQGq1Q</string>
+    <string name="google_app_id" translatable="false">1:669788928007:android:c05e0d60e1abaf5ecb12a2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAQ1I-rnpHVzJO9joOgdCX9BJsuLdQGq1Q</string>
+    <string name="project_id" translatable="false">josam-a3f1c</string>
+</resources>
